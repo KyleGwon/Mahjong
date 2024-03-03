@@ -1,0 +1,11 @@
+Inside,(3,2),(4,7),(3,4),(3,6),(3,7),(3,8),(3,8),(3,8),(3,8),(3,9),(3,9),(1,6),(1,7),(1,8),(2,8),(2,8),(2,8)
+Flowers,2
+Outside,
+Wildcard,(3,3)
+Wildcard_Counter,0
+Last_Picked,(2,8)
+Last_Inside,False
+Self_Pick,False
+Flower_Pick,False
+Dealer_Count,0
+Calling_From_Start,False
